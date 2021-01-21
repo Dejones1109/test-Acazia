@@ -1,0 +1,7 @@
+com\its\sanve\api\GatewayApplication.class
+com\its\sanve\api\repositories\CategoryRepository.class
+com\its\sanve\api\repositories\ProductRepository.class
+com\its\sanve\api\entities\Category.class
+com\its\sanve\api\controller\Controler.class
+com\its\sanve\api\services\ProductService.class
+com\its\sanve\api\entities\Product.class
